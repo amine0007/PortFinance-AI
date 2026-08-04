@@ -105,3 +105,13 @@ L'application s'ouvrira automatiquement à l'adresse [http://localhost:8501](htt
 * **Modélisation Machine Learning / DL** : PyTorch (LSTM), XGBoost, Statsmodels (ARIMA), Scikit-Learn
 * **Explicabilité** : SHAP
 * **Calcul & Visualisation** : NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly
+
+## 📸 Aperçu de la Plateforme
+
+| Module 1 : Prévision Hybride IA | Module 2 : Congestion GI/GI/c |
+|:---:|:---:|
+| ![Prévisions](images/forecast_module.png) | ![Congestion](images/congestion_module.png) |
+
+| Module 3 : Options Réelles | Module 4 : IA Explicable (XAI) |
+|:---:|:---:|
+| ![Options Réelles](images/finance_module.png) | ![Explicabilité SHAP](images/xai_module.png) |
