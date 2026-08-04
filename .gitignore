@@ -1,0 +1,20 @@
+# Environnements virtuels
+.venv/
+.venv_msys/
+venv/
+ENV/
+
+# Python cache & compiles
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Dépôt local (Optionnel - si vous voulez générer les données à la volée)
+# data/raw/
+# data/processed/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
