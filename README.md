@@ -110,7 +110,7 @@ L'application s'ouvrira automatiquement à l'adresse [http://localhost:8501](htt
 
 | Module 1 : Prévision Hybride IA | Module 2 : Congestion GI/GI/c |
 |:---:|:---:|
-| ![Prévisions](images/forecast_module.png) | ![Congestion](images/congestion_module.png) |
+| ![Prévisions](images/prev_module.png) | ![Congestion](images/congestion_module.png) |
 
 | Module 3 : Options Réelles | Module 4 : IA Explicable (XAI) |
 |:---:|:---:|
