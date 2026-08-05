@@ -67,7 +67,6 @@ Dans votre terminal (PowerShell ou Bash) :
 ```bash
 # Cloner le dépôt
 git clone https://github.com/amine0007/PortFinance-AI
-cd portfinance_ai
 
 # Créer un environnement virtuel
 python -m venv .venv
