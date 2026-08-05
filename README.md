@@ -66,7 +66,7 @@ Dans votre terminal (PowerShell ou Bash) :
 
 ```bash
 # Cloner le dépôt
-git clone <url-du-depot-github>
+git clone https://github.com/amine0007/PortFinance-AI
 cd portfinance_ai
 
 # Créer un environnement virtuel
